@@ -1,0 +1,12 @@
+*/*.png
+*/gaps
+dcnn-gap-filling.sublime-project
+dcnn-gap-filling.sublime-workspace
+*.csv
+**/*.torch
+**/*.pickle
+dummy_data
+**/results
+tessellations_test
+tessellations_train
+**/__pycache__

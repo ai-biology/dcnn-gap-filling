@@ -1,0 +1,23 @@
+{
+    "dataset": {
+        "batch_size": 16
+    },
+    "train_width": {
+        "n_runs": 10,
+        "depths": [1],
+        "widths": [2, 3, 4, 5, 6, 7, 8],
+        "patience": 50
+    },
+    "train_depth": {
+        "n_runs": 10,
+        "depths": [1, 2, 3, 4, 5],
+        "widths": [7],
+        "patience": 50
+    },
+    "train_depth_optisize": {
+        "n_runs": 10,
+        "depths": [3, 4, 5],
+        "widths": [7, 6, 5, 4],
+        "patience": 50
+    }
+}
