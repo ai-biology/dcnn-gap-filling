@@ -1,0 +1,13 @@
+{
+    "width": 240,
+    "n_cells": 20,
+    "n_gaps": 20,
+    "gap_length_mu": 0.4,
+    "gap_length_sd": 0.1,
+    "line_strength_mu": 0.3,
+    "line_strength_sd": 0.2,
+    "line_width": 2,
+    "noise_sd": 0.05,
+    "blur_radius": 0.4
+}
+

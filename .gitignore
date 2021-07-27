@@ -7,6 +7,4 @@ dcnn-gap-filling.sublime-workspace
 **/*.pickle
 dummy_data
 **/results
-tessellations_test
-tessellations_train
 **/__pycache__
