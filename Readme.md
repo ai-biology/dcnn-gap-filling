@@ -1,5 +1,7 @@
 # On the sufficient condition for solving the Gap-filling problem using Deep Convolutional Neural Networks
 
+[Paper link](https://ieeexplore.ieee.org/document/9415465)
+
 This repository contains the code to reproduce the experiments.
 
 ## Dependencies
